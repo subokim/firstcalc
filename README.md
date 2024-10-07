@@ -1,2 +1,3 @@
 # firstcalc
-Flutter exercise project
+
+A new Flutter project.
